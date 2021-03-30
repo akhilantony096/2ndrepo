@@ -1,0 +1,38 @@
+body{
+    margin: 0px;
+}
+h1{
+    text-align: center;
+}
+.one,.two,.three,.four{
+    width: 25%;
+    height: 50px;
+}
+.one{
+    background-color: darkblue;
+    margin-left: 2%;
+    
+}
+.two{
+    background-color: darkgoldenrod;
+    position: absolute;
+    left: 25%;
+    top:21.9%;
+    
+    
+    
+}
+.three{
+    background-color: darkmagenta;
+   position: absolute;
+   left: 50%;
+   top: 21.9%;
+
+}
+.four{
+    background-color: deeppink;
+    margin-right: 50%;
+    position: absolute;
+    left: 75%;
+    top:21.9% ;
+    

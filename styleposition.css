@@ -1,0 +1,23 @@
+
+
+body{
+    margin: 0px;
+}
+
+.main{
+    height: 100vh;
+    width: 100%;
+    background-color: cyan;
+}
+
+.partone,.parttwo,.partthree{
+    background-color: darkblue;
+    width: 30px;
+    height: 30px;
+}
+/*.partone,.partthree{
+    position: absolute;
+    left: 30px;
+    bottom: 5px;
+    
+}*/

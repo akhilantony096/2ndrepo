@@ -1,0 +1,24 @@
+h1{
+    margin: 0cm;
+    text-align: center;
+    font-family: 'Train One', cursive;
+}
+.main{
+    width: 100vw;
+    height: 100vh;
+    background-color: chocolate;
+}
+.mn,.kj,.ah,.af,.hg{
+    border: red;
+    margin: 1px;
+    width: 3cm;
+    height: 3cm;
+    background-color: cornflowerblue;
+
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}

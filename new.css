@@ -1,0 +1,60 @@
+
+body{
+    height: 100vh;
+    width: 100vw;
+    background-color: brown;
+    
+    margin: 0px;
+}
+/*.main{
+    /*height: 100%;
+    width: 100%;
+    background-color: brown;*/
+}
+h1{
+    margin: 0cm;
+    text-align: center;
+    font-family: 'Train One', cursive;
+}
+/*.mn,.kj,.ah,.af,.hg{
+    height: 5cm;
+    width: 3cm;
+    background-color: chartreuse;
+    margin: 0cm;
+    position: absolute;
+    top: 3cm;
+}
+.mn{
+    position: absolute;
+    left: 3cm;
+}
+.kj{
+    position: absolute;
+    left: 7.5cm;
+    
+}
+.ah{
+    position: absolute;
+    left: 13cm;
+    
+}
+.af{
+    position: absolute;
+    left: 17cm;
+    
+    
+}
+.hg{
+    position: absolute;
+    left: 23cm;
+}*/
+
+}
+.mn,.kj,.ah,.af,.hg{
+    width: 8cm;
+    height: 8cm;
+    background-color: blueviolet;
+}
+div{
+    display: flex;
+}
